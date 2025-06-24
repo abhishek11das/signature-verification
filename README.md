@@ -21,8 +21,3 @@ This application helps you mathematically evaluate how similar two signatures ar
 ## Run
 1. `pip install requirements.txt`
 2. `python main.py`
-
-
-## Please open an issue if
-* you have any suggestion to improve this project
-* you noticed any problem or error
